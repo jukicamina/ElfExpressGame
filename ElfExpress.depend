@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1612980098 source:c:\users\pc\desktop\windowsprogramiranje\amina_jukic_projekat\amina_jukic_projekat\main.cpp
+	<iostream>
+	<windows.h>
+	<tchar.h>
+	<mmsystem.h>
+	<vector>
+	"resources.h"
+
+1612614724 c:\users\pc\desktop\windowsprogramiranje\amina_jukic_projekat\amina_jukic_projekat\resources.h
+
+1612616158 source:c:\users\pc\desktop\windowsprogramiranje\amina_jukic_projekat\amina_jukic_projekat\demo.rc
+	"resources.h"
+
+1612616160 source:c:\users\hp\downloads\amina_jukic_projekat\amina_jukic_projekat\demo.rc
+	"resources.h"
+
+1612614726 c:\users\hp\downloads\amina_jukic_projekat\amina_jukic_projekat\resources.h
+
+1613351275 source:c:\users\hp\downloads\amina_jukic_projekat\amina_jukic_projekat\main.cpp
+	<iostream>
+	<tchar.h>
+	<windows.h>
+	<mmsystem.h>
+	<vector>
+	"resources.h"
+
+1613733890 source:c:\users\pc\desktop\windowsprogramiranje\amina_jukic_projekat\amina_jukic_projekat\amina_jukic_projekat\demo.rc
+	"resources.h"
+
+1613733621 c:\users\pc\desktop\windowsprogramiranje\amina_jukic_projekat\amina_jukic_projekat\amina_jukic_projekat\resources.h
+
+1614335792 source:c:\users\pc\desktop\windowsprogramiranje\amina_jukic_projekat\amina_jukic_projekat\amina_jukic_projekat\main.cpp
+	<iostream>
+	<vector>
+	<tchar.h>
+	<windows.h>
+	<mmsystem.h>
+	<cstdlib>
+	<time.h>
+
+1614335792 source:c:\users\pc\desktop\windowsprogramiranje\amina_jukic_projekat\main.cpp
+	<iostream>
+	<vector>
+	<tchar.h>
+	<windows.h>
+	<mmsystem.h>
+	<cstdlib>
+	<time.h>
+
+1614268639 source:c:\users\pc\desktop\amina_jukic_projekat\amina_jukic_projekat\main.cpp
+	<iostream>
+	<vector>
+	<tchar.h>
+	<windows.h>
+	<mmsystem.h>
+	<cstdlib>
+	<time.h>
+
